@@ -22,15 +22,15 @@ Data Analyst with hands-on experience in **SQL, Python, and Power BI**. Skilled 
 
 - **[Telecom Customer Churn Analysis & Prediction](https://github.com/zeninkloudz/Telecom-Customer-Churn-Analysis-Prediction-using-Machine-Learning)**  
   Developed a machine learning model to predict customer churn and identify key drivers affecting retention.
+  
+- **[Olist E-Commerce SQL + Power BI Analysis](https://github.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis)**  
+  Built an end-to-end business intelligence solution using SQL and Power BI to analyze 36K+ customers and $2.2M revenue, uncovering insights on customer retention, delivery performance, seasonality, and payment risk.
 
 - **[Blinkit Business Analysis](https://github.com/zeninkloudz/blinkit-sales-analysis)**  
   Conducted Python-based EDA on 8,500+ rows of quick-commerce data and created **Power BI dashboards** to uncover sales insights.
 
 - **[Pizza Sales Dashboard](https://github.com/zeninkloudz/Pizza-Sales-Dashboard-Data-Analytics-Project)**  
   Designed SQL queries to analyze sales performance and visualized KPIs using Power BI dashboards.
-
-- **[Netflix Insights Dashboard](https://github.com/zeninkloudz/Netflix-Insights-Dashboard)**  
-  Built a Tableau dashboard to explore content patterns and audience preferences.
 
 - **[Titanic EDA Project](https://github.com/zeninkloudz/Titanic-EDA-Project)**  
   Performed exploratory data analysis to identify key factors influencing survival on the Titanic.
